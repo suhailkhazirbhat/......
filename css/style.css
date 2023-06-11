@@ -577,12 +577,12 @@ a {
     margin: 0 auto;
 }
 .news {
-    width: 76%;
+    width: 100%;
     background:#2a2a2a;
     padding: 0 2%;
 }
 .title {
-    width: 20%;
+    width: 100%;
     text-align: center;
     background:#05B4FF;
     position: relative;
