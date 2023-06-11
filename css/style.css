@@ -34,7 +34,7 @@ header {
     z-index: 1000;
     display: flex;
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
     background: transparent;
     padding: 22px 15%;
     border-bottom: 1px solid transparent;
@@ -465,10 +465,10 @@ form textarea {
 }
 
 @media (max-width: 1480px) {
-    header {
+    /* header {
         padding: 12px 2.5%;
         transition: .1s;
-    }
+    } */
 
     section {
         padding: 110px 3% 60px;
