@@ -270,9 +270,11 @@ section {
     align-items: center;
     gap: 2.5rem;
     margin-top: 5rem;
+    color:black;
 }
 
 .row {
+  
     position: relative;
     overflow: hidden;
     border-radius: 8px;
