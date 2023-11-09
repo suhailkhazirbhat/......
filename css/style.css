@@ -50,6 +50,8 @@ header {
 
 span {
     color: var(--main-color);
+    font-size: medium;
+    font-weight: 700;
 }
 
 .navlist {
