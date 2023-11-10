@@ -35,7 +35,8 @@ header {
     display: flex;
     align-items: center;
     /* justify-content: center; */
-    background: transparent;
+    /* background: transparent; */
+    background-color: #202020;
     padding: 22px 15%;
     border-bottom: 1px solid transparent;
     transition: all .45s ease;
@@ -99,6 +100,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    border:'10px solid black '
 }
 
 .slide {
